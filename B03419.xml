@@ -1,0 +1,426 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fame, vvit, and glory of the vvest, here in this song shall fully be exprest. A caveat for young men wherein they may behold, how a youngster gave away his mistris and his gold; and maids likewise may here a lesson learn, wherein good from bad they may discern; learn but this damsels, wit, and then youl finde, a way to fit all suters in their kind. To a pleasant new tune, called the glory of the west.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03419</idno>
+            <idno type="STC">Wing F350B</idno>
+            <idno type="STC">Interim Tract Supplement Guide BR f 821.04 B49[53]</idno>
+            <idno type="EEBO-CITATION">99887589</idno>
+            <idno type="PROQUEST">ocm99887589</idno>
+            <idno type="VID">182312</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03419)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182312)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:3[56])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fame, vvit, and glory of the vvest, here in this song shall fully be exprest. A caveat for young men wherein they may behold, how a youngster gave away his mistris and his gold; and maids likewise may here a lesson learn, wherein good from bad they may discern; learn but this damsels, wit, and then youl finde, a way to fit all suters in their kind. To a pleasant new tune, called the glory of the west.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Burton, at the Horse-shooe in Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>164[9]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Verse: "A faire and comly creature ..."</note>
+                  <note>Printed in four columns.</note>
+                  <note>Imperfect: mutilated, affecting title and text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182312:1" rendition="simple:additions"/>
+            <head>The Fame, Wit, and glory of the VVeſt, Here in this Song ſhall fully be expreſt.</head>
+            <argument>
+               <l>A Caveat for young men wherein they may behold,</l>
+               <l>how a youngſter gave away his Miſtris and his Gold;</l>
+               <l>And Maids likewiſe may here a leſſon learn,</l>
+               <l>wherein good from bad they may diſcern;</l>
+               <l>Learn but this damſels, wit, and then youl finde,</l>
+               <l>a way to fit all ſuters in their kind.</l>
+            </argument>
+            <opener>To a pleaſant new Tune, <hi>Called the glory of the Weſt.</hi>
+            </opener>
+            <p>
+               <figure/>
+               <figure/>
+            </p>
+            <lg>
+               <l>A Faire and comly creature,</l>
+               <l>as ere was fram'd by nature,</l>
+               <l>Lived in the weſt and the glory of the ſame;</l>
+               <l>Her maiden life and carriage,</l>
+               <l>Vntill her day of marriage;</l>
+               <l>I of it néeds muſt wright unto her laſting fame,</l>
+               <l>Moſt galants did admire,</l>
+               <l>her beauty with deſire,</l>
+               <l>To injoy her company.</l>
+               <l>and her vertues for to try;</l>
+               <l>But alas poore fooles their labour was in vain,</l>
+               <l>the glory of the weſt, they never yet could ſtain;</l>
+               <l>Your courting, and your complements ſhe'd ſay,</l>
+               <l>is not the way to win me, I longer mean to ſtay.</l>
+            </lg>
+            <lg>
+               <l>Perhaps you may admire,</l>
+               <l>and have a great deſire,</l>
+               <l>To know why ſhe was call'd the glory of the weſt;</l>
+               <l>then give but time and leaſure,</l>
+               <l>And to fulfill your pleaſure;</l>
+               <l>her vertues here ſhall fully be expreſt,</l>
+               <l>She was proper tall and comly,</l>
+               <l>no parts about her homely,</l>
+               <l>She had no rowling eye,</l>
+               <l>nor never uſed uncivility,</l>
+               <l>But an amoreus ſwéet and lovly pierſing ſight,</l>
+               <l>her chéeks and her lips was pure red and white,</l>
+               <l>Her other parts can better be expreſt,</l>
+               <l>by him that now injoyes the glory of the weſt.</l>
+            </lg>
+            <lg>
+               <l>So rare ſhe was and witty,</l>
+               <l>they call'd her famous <hi>Betty;</hi>
+               </l>
+               <l>Not far from <hi>Briſtow</hi> this gallant ſpark did live;</l>
+               <l>her Father was a Cavalior,</l>
+               <l>And loſt his life in ſervice there,</l>
+               <l>her mother was grown poor, &amp; no portion could her giv<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Which made thoſe gallants think that ſhe</l>
+               <l>would ſoon yéeld up her honeſty,</l>
+               <l>Quoth they wée'll venture,</l>
+               <l>her royall fort to enter,</l>
+               <l>But all their time they ſpent, alas it was in vain,</l>
+               <l>the glory of the weſt, they never yet could ſtain,</l>
+               <l>Quoth ſhe you are deceiv'd tis not my poverty,</l>
+               <l>ſhall ever make' me yeeld to your uncivility.</l>
+            </lg>
+            <lg>
+               <l>My vergins life ile keep quoth ſhe,</l>
+               <l>untill ſuch time that man I ſee,</l>
+               <l>VVhich I can affect and chaſe him for my mate;</l>
+               <l>when that gallant once I find,</l>
+               <l>That to vertues is inclin'd</l>
+               <l>and I can but fancy him, I care not for eſtate;</l>
+               <l>If a royall heart he bear,</l>
+               <l>and can love a Cavelier;</l>
+               <l>That ſame promiſe he muſt make,</l>
+               <l>for my noble fathers ſake,</l>
+               <l>VVhich loſt his life and fortunes in the field,</l>
+               <l>and to no other ſide my maidenhead I'le yeeld,</l>
+               <l>If that he be a Cavalier, tho he be neer ſo poor,</l>
+               <l>I'le love him, I'le ſerve him, and honour him the more</l>
+            </lg>
+            <lg>
+               <l>GIve eare and liſten to my Song,</l>
+               <l>and I ſhall tell you are be long,</l>
+               <l>How ſhe hath obtaind a husband to her mind;</l>
+               <l>a uſurer that liv'd hard by,</l>
+               <l>Left his Son when he did dye,</l>
+               <l>Great ſums of money, with goods and land behind;</l>
+               <l>That youngſter hearing of this girle,</l>
+               <l>vow'd if either gold or pearle,</l>
+               <l>Would this damſels favour win,</l>
+               <l>then he weigh dit not a pinne.</l>
+               <l>Hang money quoth he, my Gold I will let flye,</l>
+               <l>my father he is dead, I have enough lye by,</l>
+               <l>A conceit I have now comes into my breaſt,</l>
+               <l>which I hope ſhall obtain the glory of the weſt.</l>
+            </lg>
+            <lg>
+               <l>A kinſman poor I have quoth he.</l>
+               <l>ſhall make up this ſame match for me,</l>
+               <l>And a hundred pounds on him I will beſtow,</l>
+               <l>he is a comly youth and young,</l>
+               <l>And knows well how to uſe his tongue</l>
+               <l>and he will obtain her for me I do know;</l>
+               <l>So forth he ſet this youngſter brave,</l>
+               <l>with money and what elſe hee'd have,</l>
+               <l>For to try his utmoſt skill,</l>
+               <l>to obtain this maids good will;</l>
+               <l>Spare not quoth he tis no matter what you ſpend,</l>
+               <l>doe the beſt you can, and be faithfull to your friend;</l>
+               <l>That I will ſayes he, but mark now the Ieſt,</l>
+               <l>he conſened his kinſman of the glory of the weſt.</l>
+            </lg>
+            <lg>
+               <l>When firſt he came unto this Maid,</l>
+               <l>with courteous words he to her ſaid,</l>
+               <l>Faire damſell I muſt court you in my kinſmans name;</l>
+               <l>his father being of his life bereft,</l>
+               <l>Great means behind him he hath left,</l>
+               <l>and now this youngſter injoyeth all the ſame;</l>
+               <l>Which on you he will beſtow,</l>
+               <l>if you pleaſe it ſhall be ſo;</l>
+               <l>Sir you have ſpoke enough quoth ſhe,</l>
+               <l>he's but a foole I plainly ſee.</l>
+               <l>Do you preſent his perſon, and let him kéep his Gold,</l>
+               <l>now you have your anſwer, that Riddle pray unfold;</l>
+               <l>Your Riddle faire Miſtris. I quickly underſtand.</l>
+               <l>my perſon and my ſervice ſhall be at your command.</l>
+            </lg>
+            <lg>
+               <l>This gallant damſell faire and bright,</l>
+               <l>in whom ſo many took delight;</l>
+               <l>With this prodigals kinſman was taken ſo in love,</l>
+               <l>which when he did perceive and ſee,</l>
+               <l>He ſlipt no opportunity,</l>
+               <l>but couzened his cozen as afterwards did prove;</l>
+               <l>Swéet heart quoth he I am poor indeed,</l>
+               <l>which made me fearfull to p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ceed;</l>
+               <l>But what I want in wealth faire maid,</l>
+               <l>ſhall be in love and ſervice piad;</l>
+               <l>Speak no more quoth ſhe, few words I like the beſt,</l>
+               <l>if you can love a Cavalier, no more ſhall be expreſt,</l>
+               <l>Swéet ſoule ſaith he tis known both farre and néer,</l>
+               <l>I have loſt all I had, for being a Cavalier.</l>
+            </lg>
+            <lg>
+               <l>Theſe lovers being vnited,</l>
+               <l>his kinſman was invited;</l>
+               <l>Over to her houſe, and he thought to get the laſſe,</l>
+               <l>but ſure a foole he needs muſt be,</l>
+               <l>When once he did the Miſtreſſe ſee;</l>
+               <l>to marry with her maid as after comes to paſſe,</l>
+               <l>Qouth ſhe unto this prodigall,</l>
+               <l>now you have obtained all;</l>
+               <l>By your kinſmans meanes quoth ſhe,</l>
+               <l>pray ſweet heart tell to me,</l>
+               <l>VVhat you will beſtow upon him for his pain,</l>
+               <l>my maid he would marry if a portion he could gain;</l>
+               <l>He hearing of her words, drew forth a purſe of Gold.</l>
+               <l>and ſaid ſweet heart content him as long as it will hold.</l>
+            </lg>
+            <lg>
+               <l>Five hundred pound is in't ſayes he,</l>
+               <l>the reſt I freely give to thee;</l>
+               <l>A Ring likewiſe he bought her, and a fam<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>one thing of you qaoth ſhe I crave,</l>
+               <l>Our loves ſo ſecret I would have;</l>
+               <l>I would not have it blaz'd abroad about<gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>So for that time he went a way.</l>
+               <l>untill the appointed marriage day;</l>
+               <l>VVhere in private they did meet,</l>
+               <l>at a Church in <hi>Briſtow</hi> ſtreet;</l>
+               <l>And there his kinſman ſerved him like a clo<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>the Mrs. wore the maids clothes, the ma<gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>The Miſtreſſe had her Maiden bravely dreſ<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>this foole he did take her for the glory of the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>They vales before their faces had,</l>
+               <l>ſo eager was this ſimple lad;</l>
+               <l>In all the haſte he marri'd néeds muſt be<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>which being done his kinſman led,</l>
+               <l>His Miſtreſſe and unto him ſed,</l>
+               <l>this maid you muſt give me which he di<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>His Gold he freely gave away,</l>
+               <l>and his Miſtreſſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oo I ſay,</l>
+               <l>But yet he had enough beſide,</l>
+               <l>his Ring his gown, likewiſe a bride;</l>
+               <l>It was too much for ſuch a foole as he,</l>
+               <l>for to maintain a kinſman his luter for to be;</l>
+               <l>The clown got the Bride that was ſo bravely <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>but his kinſman bore away the glory of the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>So from the Church away they went,</l>
+               <l>this clown at firſt was well cotent;</l>
+               <l>Thinking he had married with the glory of the w<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>ſo homewards then he went apace,</l>
+               <l>He never look't upon her face,</l>
+               <l>but took her for her Miſtreſſe, ſhe was bravely</l>
+               <l>His kinſman and his pritty mate,</l>
+               <l>went ſmiling after in conſeit,</l>
+               <l>Thinking what the foole would ſay,</l>
+               <l>when their vales were tooke away,</l>
+               <l>Tis no matter what he ſaid, they had his money<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>the maid and the gown, it ſéems fell to his lot;</l>
+               <l>I ne'er before did hear of ſuch a pretty Ieſt,</l>
+               <l>as here was brought about by the Glory of the w<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>Brave gallants went to meet her,</l>
+               <l>and kindly they did greet her;</l>
+               <l>But thinking to ſalute the glory of the weſt,</l>
+               <l>they were ſtruck with admiration,</l>
+               <l>To ſee ſuch alteration;</l>
+               <l>but pluking off ther wales. they ſoon perceiv'd <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>This youngſter when he did behold,</l>
+               <l>he had loſt his Miſtreſſe and his Gold;</l>
+               <l>Faith I might a looke quoth he,</l>
+               <l>before that I had leapt ſo free;</l>
+               <l>But now the proverb you may plainly ſee,</l>
+               <l>marriage and hanging goes by deſtiny;</l>
+               <l>Thus unto you I freely have expreſt,</l>
+               <l>The wit and behaviour of the glory of the weſt,</l>
+            </lg>
+            <lg>
+               <l>This Song a warning well may be,</l>
+               <l>to young men when they do it ſee</l>
+               <l>If once they goe a wooing not to truſt another,</l>
+               <l>and maids if they this Song will learn,</l>
+               <l>Good from had they may diſcern,</l>
+               <l>and this girls behaviour they may chuſe above all oth<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>This couple lives moſt brave they ſay,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <hi>Briſtow</hi> at this preſent day;</l>
+               <l>Ever ſince they did agree,</l>
+               <l>both in peace and unity;</l>
+               <l>She never yet would give him cauſe of ſtrife,</l>
+               <l>I doe wiſh that every man could ſay ſo by his wife;</l>
+               <l>Young men and maids, this Song <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>ſo the glory of the weſt now bids you <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London printed for <hi>R. Burton,</hi> at the Horſe-ſhooe in Smithfield, 164<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
